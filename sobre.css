@@ -1,0 +1,18 @@
+.cabecalho header h1{
+    background-color: gray;
+    border-radius: 10px;
+    width: 300px;
+
+}
+.cabecalho header{
+    background-color: blue;
+}
+
+.cabecalho header a{
+    display: flex;
+    position: flex;
+    border-spacing: 10px;
+    color: white;
+
+    
+}
